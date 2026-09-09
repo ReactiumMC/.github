@@ -1,7 +1,4 @@
-<p align="left">
-  <img src="logo.png" alt="Reactium Logo" width="20%"/>
-  <br>
-  <h1>ReactiumMC</h1>
+<h1>ReactiumMC</h1>
   <b>A lightweight, legacy-inspired Minecraft Bedrock server software ecosystem.</b>
   <br><br>
   <a href="https://github.com/ReactiumMC/Reactium"><img src="https://img.shields.io/badge/Core-Reactium-blue?style=plastic" alt="Reactium Core"></a>
