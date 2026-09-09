@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="logo.png" alt="Reactium Logo" width="150"/>
+<p align="left">
+  <img src="logo.png" alt="Reactium Logo" width="20%"/>
   <br>
   <h1>ReactiumMC</h1>
   <b>A lightweight, legacy-inspired Minecraft Bedrock server software ecosystem.</b>
