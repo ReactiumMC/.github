@@ -1,9 +1,9 @@
 <h1>ReactiumMC</h1>
   <b>A lightweight, legacy-inspired Minecraft Bedrock server software ecosystem.</b>
   <br><br>
-  <a href="https://github.com/ReactiumMC/Reactium"><img src="https://img.shields.io/badge/Core-Reactium-blue?style=plastic" alt="Reactium Core"></a>
-  <a href="https://github.com/ReactiumMC/Reactium/releases"><img src="https://img.shields.io/badge/Version-v0.1.0--beta-yellow?style=plastic" alt="Version"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-LGPL--3.0-green?style=plastic" alt="License"></a>
+  <a href="https://github.com/ReactiumMC/Reactium"><img src="https://img.shields.io/badge/Core-Reactium-blue?style=flat-square" alt="Reactium Core"></a>
+  <a href="https://github.com/ReactiumMC/Reactium/releases"><img src="https://img.shields.io/badge/Version-v0.1.0--beta-yellow?style=flat-square" alt="Version"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-green?style=flat-square" alt="License"></a>
 </p>
 
 ---
